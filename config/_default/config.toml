@@ -45,7 +45,7 @@
     # max index length of the chunked content
     contentLength = 4000
     # placeholder of the search bar
-    placeholder = ""
+    placeholder = "Cari..."
     #  max number of results length
     maxResultLength = 10
     #  snippet length of the result
@@ -77,19 +77,19 @@
     mobileMode = "auto"
     #  Theme change mode
     # theme change mode ("switch", "select")
-    themeChangeMode = "select"
+    themeChangeMode = "switch"
     #  Header title config
     [params.header.title]
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Herman"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
-      typeit = false
+      typeit = true
 
   # Footer config
   [params.footer]
@@ -97,7 +97,7 @@
     #  Custom content (HTML format is supported)
     custom = ''
     #  whether to show Hugo and theme info
-    hugo = true
+    hugo = false
     #  Hosted on (HTML format is supported)
     # <a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>
     hostedOn = '' 
@@ -640,11 +640,11 @@
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
+  name = "Herman cahyono"
+  email = "cahyonoherman93@gmail.com"
   link = ""
   avatar = ""
-  gravatarEmail = ""
+  gravatarEmail = "cahyonoherman93@gmail.com"
 
 # Sitemap config
 [sitemap]
