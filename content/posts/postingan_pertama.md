@@ -2,7 +2,7 @@
 title: "Postingan pertama"
 date: 2023-05-13T14:00:18+07:00
 draft: false
-
+tags: ["contoh", "markdown", "hugo", "html"]
 ---
 
 # Postingan pertama saya 
