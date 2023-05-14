@@ -332,10 +332,10 @@
     #  social share links in post page
     [params.page.share]
       enable = true
-      Twitter = true
-      Facebook = true
-      Linkedin = false
       Whatsapp = true
+      Facebook = true
+      Twitter = true
+      Linkedin = false
       Pinterest = false
       Tumblr = false
       HackerNews = false
@@ -343,19 +343,19 @@
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+      Blogger = false
       Baidu = false
       Odnoklassniki = false
-      Evernote = true
+      Evernote = false
       Skype = false
       Trello = false
       Mix = false
