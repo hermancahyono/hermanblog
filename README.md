@@ -1,6 +1,8 @@
 # Herman's Blog
 
-Ini adalah blog pribadi saya yang membahas topik-topik tentang teknologi dan budaya.
+Ini adalah blog pribadi saya yang membahas topik-topik seputar teknologi dan pengembangan Website.
+disini saya menggunakan [Hugo]("https://hugo.io")
+
 
 ## Cara menjalankan proyek
 
@@ -17,6 +19,4 @@ Ini adalah blog pribadi saya yang membahas topik-topik tentang teknologi dan bud
 
 ## Tentang Saya
 
-Saya adalah seorang penulis dan pengembang web dengan minat khusus pada teknologi dan inovasi. Anda dapat menghubungi saya melalui email di cahyonoherman93@gmail.com atau mengikuti saya di Twitter di @hermancahyono1.
-
-Pastikan untuk menyesuaikan struktur dan konten README dengan proyek Hugo Anda dan memastikan informasi yang disediakan berguna bagi pembaca.
+Saya adalah seorang penulis dan pengembang web dengan minat khusus pada teknologi dan inovasi. Anda dapat menghubungi saya melalui email di cahyonoherman93@gmail.com.

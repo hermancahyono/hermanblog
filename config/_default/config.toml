@@ -2,7 +2,7 @@
   #  DoIt theme version
   version = "0.3.X"
   # website title
-  title = "Herman's Blog"
+  title = "Herman Cahyono"
   # site description
   description = "Selamat datang di blog saya"
   # site keywords
@@ -150,7 +150,7 @@
       # The filepath is relative to the static or assets directory
       avatarURL = "/images/avatar.webp"
       #  title shown in home page (HTML format is supported)
-      title = "Herman's Blog"
+      title = "Herman Cahyono"
       # subtitle shown in home page
       subtitle = "Selamat datang di blog saya..."
       # whether to use typeit animation for subtitle
