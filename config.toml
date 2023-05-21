@@ -41,6 +41,9 @@ theme = "DoIt"
     title = ""
     weight = 3
 
+
+enableInlineShortcodes = true
+
 # Markup related configuration in Hugo
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
