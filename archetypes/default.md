@@ -6,6 +6,7 @@ lastmod: {{ .Date }}
 draft: false
 description: ""
 featuredImage: ""
+featuredImagePreview: ""
 tags: []
 categories: []
 lightgallery: true
