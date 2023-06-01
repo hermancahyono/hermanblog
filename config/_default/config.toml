@@ -8,7 +8,7 @@
   # site keywords
   keywords = ["Theme", "Hugo"]
   #  site default theme ("light", "dark", "black", "auto")
-  defaultTheme = "dark"
+  defaultTheme = "light"
   # public git repo url only then enableGitInfo is true
   gitRepo = ""
   #  which hash function used for SRI, when empty, no SRI is used
