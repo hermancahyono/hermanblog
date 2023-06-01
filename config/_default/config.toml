@@ -29,7 +29,7 @@
     # optional site title override for the app when added to an iOS home screen or Android launcher
     title = "HermanC"
     # whether to omit favicon resource links
-    noFavicon = false
+    noFavicon = true
     # modern SVG favicon to use in place of older style .png and .ico files
     svgFavicon = ""
     # Safari mask icon color
@@ -122,7 +122,7 @@
     rss = 10
     #  recently updated posts settings
     [params.section.recentlyUpdated]
-      enable = false
+      enable = true
       rss = false
       days = 30
       maxCount = 10
@@ -365,9 +365,9 @@
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "hermanc"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
@@ -417,9 +417,9 @@
       [params.page.comment.facebook]
         enable = false
         width = "100%"
-        numPosts = 10
-        appId = ""
-        languageCode = ""
+        numPosts = 5
+        appId = "835608801312347"
+        languageCode = "id"
       #  Telegram comments config
       [params.page.comment.telegram]
         enable = false
