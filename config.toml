@@ -40,6 +40,14 @@ theme = "DoIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "portofolio"
+    pre = ""
+    post = ""
+    name = "Portofolio"
+    url = "/Portofolio/"
+    title = ""
+    weight = 4
 
 
 enableInlineShortcodes = true
