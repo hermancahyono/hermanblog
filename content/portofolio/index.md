@@ -10,14 +10,14 @@ featuredImagePreview: "herman.jpeg"
 lightgallery: true
 ---
     
-{{< image src="/portofolio/portofolio.jpg" caption="Junior Web Programmer | Spesialisasi Laravel" >}}
+{{< image src="/portofolio/portofolio.jpg" caption="Junior Web Programmer | Belajar Laravel" >}}
 
 ## Tentang Saya
 Saya seorang Junior Web Programmer dengan keahlian utama dalam pengembangan web menggunakan framework Laravel. Saya memiliki pemahaman yang kuat tentang konsep pemrograman web dan pengembangan aplikasi dengan menggunakan bahasa PHP dan teknologi terkait.
 
 ## Proyek-Proyek Terbaru
 
-### Proyek 1: E-commerce Website
+### Proyek 1: GMU Buah Tropis Website
 - Deskripsi: Mengembangkan platform e-commerce dari awal menggunakan Laravel dan MySQL.
 - Tautan: [Contoh Tautan](https://www.contoh-tautan.com)
 
@@ -40,7 +40,7 @@ Saya seorang Junior Web Programmer dengan keahlian utama dalam pengembangan web 
 - Git
 
 ## Pendidikan
-- Sarjana Teknik Informatika, Universitas ABC, Tahun Kelulusan: 20XX
+- Sarjana Teknik Informatika, Universitas Nurul Jadid, Tahun Kelulusan: 2015
 
 ## Sertifikasi
 - Sertifikasi Laravel - Level 1, Tahun: 20XX
