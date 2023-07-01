@@ -8,7 +8,7 @@ disini saya menggunakan [Hugo]("https://hugo.io")
 
 1. Clone proyek dari repository Github.
 2. Install Hugo di komputer lokal.
-3. Update submodule : `git submodule init && git submodule update`
+3. Update submodule tema : `git submodule init && git submodule update`
 4. Jalankan perintah `hugo server` di terminal.
 5. `http://localhost:1313`.
 
