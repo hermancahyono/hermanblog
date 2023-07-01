@@ -6,10 +6,11 @@ disini saya menggunakan [Hugo]("https://hugo.io")
 
 ## Cara menjalankan proyek
 
-1. Unduh proyek dari repository Github.
+1. Clone proyek dari repository Github.
 2. Install Hugo di komputer lokal.
-3. Jalankan perintah `hugo server` di terminal.
-4. Buka browser dan navigasi ke `http://localhost:1313`.
+3. Update submodule : `git submodule init && git submodule update`
+4. Jalankan perintah `hugo server` di terminal.
+5. `http://localhost:1313`.
 
 ## Fitur
 
