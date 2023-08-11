@@ -13,7 +13,7 @@ lightgallery: true
 {{< image src="/portofolio/portofolio.jpg" caption="Junior Web Programmer | Belajar Laravel" >}}
 
 ## Tentang Saya
-Saya seorang Junior Web Programmer dengan keahlian utama dalam pengembangan web menggunakan framework Laravel. Saya memiliki pemahaman yang kuat tentang konsep pemrograman web dan pengembangan aplikasi dengan menggunakan bahasa PHP dan teknologi terkait.
+Saya seorang Junior Web Programmer dengan minat dalam pengembangan web menggunakan framework Laravel. Saya memiliki pemahaman yang kuat tentang konsep pemrograman web dan pengembangan aplikasi dengan menggunakan bahasa PHP dan teknologi terkait.
 
 ## Proyek-Proyek Terbaru
 
@@ -43,8 +43,9 @@ Saya seorang Junior Web Programmer dengan keahlian utama dalam pengembangan web 
 - Sarjana Teknik Informatika, Universitas Nurul Jadid, Tahun Kelulusan: 2015
 
 ## Sertifikasi
-- Sertifikasi Laravel - Level 1, Tahun: 20XX
-- Sertifikasi PHP - Level 2, Tahun: 20XX
+- Sertifikasi Laravel - Level 1, Tahun: 2023
+- Sertifikasi Laravel - Level study case, Tahun: 2023
+- Sertifikasi PHP - Level 2, Tahun: 2023
 
 ## Proyek Pribadi
 Saya juga memiliki minat pribadi dalam pengembangan web, dan saya sering mengerjakan proyek-proyek kecil di luar pekerjaan utama saya. Beberapa proyek pribadi yang telah saya kerjakan termasuk:
