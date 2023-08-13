@@ -5,8 +5,8 @@ date: 2023-08-11T11:27:31+07:00
 lastmod: 2023-08-11T11:27:31+07:00
 draft: false
 description: "Pengertian Events Di Nodejs"
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "events.png"
+featuredImagePreview: "events.png"
 tags: [events, nodejs]
 categories: [nodejs]
 lightgallery: true

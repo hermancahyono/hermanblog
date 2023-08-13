@@ -41,11 +41,11 @@ theme = "DoIt"
     title = ""
     weight = 3
   [[menu.main]]
-    identifier = "portofolio"
+    identifier = "About"
     pre = ""
     post = ""
-    name = "Portofolio"
-    url = "/Portofolio/"
+    name = "About"
+    url = "/About/"
     title = ""
     weight = 4
 

@@ -5,8 +5,8 @@ date: 2023-08-11T12:06:24+07:00
 lastmod: 2023-08-11T12:06:24+07:00
 draft: false
 description: "Nodejs Server Side"
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "nodejs-use-cases-cover-image.png"
+featuredImagePreview: "nodejs-use-cases-cover-image.png"
 tags: [nodejs, server-side]
 categories: [nodejs]
 lightgallery: true
@@ -42,7 +42,4 @@ Referensi tambahan dan sumber bacaan:
 
 - [Node.js Official Website](https://nodejs.org/)
 - [Node.js Wikipedia](https://en.wikipedia.org/wiki/Node.js)
-- [The Node.js Handbook](https://nodejs.dev/learn)
-- [Node.js Advantages and Disadvantages](https://www.codingdojo.com/blog/nodejs-advantages-and-disadvantages)
-- [Node.js Tutorial](https://www.codingdojo.com/blog/nodejs-tutorial)
 - [Mengenal NodeJs](https://iammuhamadiqbal.wordpress.com/2015/10/06/mengenal-node-js-22/)

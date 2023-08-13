@@ -5,8 +5,8 @@ date: 2023-08-11T11:30:53+07:00
 lastmod: 2023-08-11T11:30:53+07:00
 draft: false
 description: "Pengertian EventEmitter Di Nodejs"
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "event-emitter.png"
+featuredImagePreview: "event-emitter.png"
 tags: [evenEmitter, nodejs]
 categories: [nodejs]
 lightgallery: true

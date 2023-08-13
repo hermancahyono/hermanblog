@@ -5,8 +5,8 @@ date: 2023-08-11T11:02:17+07:00
 lastmod: 2023-08-11T11:02:17+07:00
 draft: false
 description: "catatan belajar nodejs/stream"
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "stream.png"
+featuredImagePreview: "stream.png"
 tags: [stream, nodejs]
 categories: [nodejs]
 lightgallery: true

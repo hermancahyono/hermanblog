@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "Portofolio"
+title: "About"
 date: 2023-05-28T23:31:13+07:00
 lastmod: 2023-05-28T23:31:13+07:00
 draft: false
@@ -10,7 +10,7 @@ featuredImagePreview: "herman.jpeg"
 lightgallery: true
 ---
     
-{{< image src="/portofolio/portofolio.jpg" caption="Junior Web Programmer | Belajar Laravel" >}}
+{{< image src="/about/portofolio.jpg" caption="Junior Web Programmer | Laravel" >}}
 
 ## Tentang Saya
 Saya seorang Junior Web Programmer dengan minat dalam pengembangan web menggunakan framework Laravel. Saya memiliki pemahaman yang kuat tentang konsep pemrograman web dan pengembangan aplikasi dengan menggunakan bahasa PHP dan teknologi terkait.
