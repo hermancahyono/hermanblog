@@ -40,7 +40,8 @@ Saya seorang Junior Web Programmer dengan minat dalam pengembangan web menggunak
 - Git
 
 ## Pendidikan
-- Sarjana Teknik Informatika, Universitas Nurul Jadid, Tahun Kelulusan: 2015
+- Sekolah Menengah Atas Nurul Jadid, Tahun Kelulusan: 2010
+- Sekolah Tinggi Teknologi Nurul Jadid Angkatan 2011
 
 ## Sertifikasi
 - Sertifikasi Laravel - Level 1, Tahun: 2023
