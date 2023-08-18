@@ -21,3 +21,14 @@ Awal mula saya menggunakan codespace sebagai tool untuk ngoding karana laptop le
 Jujur saja ketika ngoding hanya bermodalkan hp, setting nya sangat susah sekali dan banyak sekali menghabiskan waktu hanya sekedar untuk setting.
 
 pengalaman ini akan saya update tiap hari untuk dijadikan referensi kedepannya
+
+### Hari Ke-2 ngoding pakai codespase
+
+Test code snippet : 
+
+```javascript
+let a = 10;
+for (i=1, i<=10, i++){
+    console.log(a-[i])
+}
+```
