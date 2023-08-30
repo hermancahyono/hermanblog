@@ -44,9 +44,12 @@ Saya seorang Junior Web Programmer dengan minat dalam pengembangan web menggunak
 - Sekolah Tinggi Teknologi Nurul Jadid Angkatan 2011
 
 ## Sertifikasi
-- Sertifikasi Laravel - Level 1, Tahun: 2023
-- Sertifikasi Laravel - Level study case, Tahun: 2023
-- Sertifikasi PHP - Level 2, Tahun: 2023
+- Sertifikat [Javascript di Dicoding](https://www.dicoding.com/certificates/N9ZO53DDRPG5)
+- Sertifikat [Jaringan Kompuer](https://www.dicoding.com/certificates/L4PQ62KY4PO1)
+- Sertifikat [Dasar-dasar DevOps](https://www.dicoding.com/certificates/QLZ92V01MX5DS)
+- Sertifikat Cloud Practitioner Essentials [Belajar Dasar AWS Cloud](https://www.dicoding.com/certificates/KEXL4D4WWXG2)
+- Sertfikat Laravel Pemula
+- Sertifikat Laravel [Membangun Website Online Course Dengan Laravel, Alpine.JS Dan Tailwind CSS](https://santrikoding.com/cek-sertifikat?no=SK-TLGCNI06SR6VN9Y)
 
 ## Proyek Pribadi
 Saya juga memiliki minat pribadi dalam pengembangan web, dan saya sering mengerjakan proyek-proyek kecil di luar pekerjaan utama saya. Beberapa proyek pribadi yang telah saya kerjakan termasuk:

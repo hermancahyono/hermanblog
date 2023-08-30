@@ -1,4 +1,4 @@
----
+yg---
 weight: 6
 title: "Tak Ada Rotan Akar Pun Jadi"
 date: 2023-08-17T16:58:54Z
